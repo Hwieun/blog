@@ -76,6 +76,15 @@ p {
 .prose p {
 	margin-bottom: 2em;
 }
+.prose > h1 {
+	font-size: 1.75em;
+}
+.prose > h2 {
+	font-size: 1.4em;
+}
+.prose > h3 {
+	font-size: 1.2em;
+}
 textarea {
 	width: 100%;
 	font-size: 16px;
